@@ -1,0 +1,25 @@
+body {
+    background-color: #f5e6ca;
+}
+hr {
+    border-color: aliceblue;
+    border-width: 5px;
+    width: 2%;
+    border-style: dotted none none none;
+}
+
+h3 {
+    color: #fb9300;
+}
+
+h1 {
+    color: #fb9300;
+}
+
+a {
+    color: #f54748;
+}
+
+table {
+    color: #343f56;
+}
